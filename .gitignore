@@ -1,0 +1,8 @@
+.env
+.mypy_cache/
+.vscode/
+env
+__pycache__/
+zadaniya
+.git
+
